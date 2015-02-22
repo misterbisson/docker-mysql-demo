@@ -1,0 +1,2 @@
+ip address show
+`./docker-client-env root@10.88.88.200`
